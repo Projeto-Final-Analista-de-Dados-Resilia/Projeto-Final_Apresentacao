@@ -2,7 +2,7 @@
 
 ## Introdução
 
-Este repositório contém o projeto de análise exploratória de dados de criptomoedas realizado pelo grupo [Nome do Grupo] como parte do Módulo 5 do curso [Nome do Curso]. O objetivo deste projeto é realizar uma análise histórica dos valores das criptomoedas, respondendo a várias perguntas relacionadas ao mercado de criptomoedas.
+Este repositório contém o projeto de análise exploratória de dados de criptomoedas realizado pelo grupo Crypto Asset como parte do Módulo 5 do curso Análise de Dados. O objetivo deste projeto é realizar uma análise histórica dos valores das criptomoedas, respondendo a várias perguntas relacionadas ao mercado de criptomoedas.
 
 ## Contexto
 
@@ -64,10 +64,12 @@ Este projeto foi apresentado em grupo na aula final do curso. Os slides da apres
 
 ## Contribuidores
 
-- [Nome do Membro 1]
-- [Nome do Membro 2]
-- [Nome do Membro 3]
+- [Jaqueline dos Santos Pinto da Cunha]
 
-## Licença
+- [Joel Nunes dos Santos Junior]
 
-Este projeto é licenciado sob a [Licença MIT](LICENSE).
+- [Michael Barbosa das Chagas Leite]
+
+- [Thiago Bernardes Chechia]
+
+- [Wdson Danrlei de Jesus Souza Amado]
