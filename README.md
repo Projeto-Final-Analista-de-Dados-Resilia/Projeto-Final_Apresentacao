@@ -42,9 +42,9 @@ A nossa análise exploratória responde às seguintes perguntas:
 
 ## Organização do Projeto
 
-- **Notebook de Análise**: O arquivo `criptomoedas_analise.ipynb` contém o código e a análise em detalhes.
+- **Notebook de Análise**: O arquivo `analise_criptomoedas.ipynb` contém o código e a análise em detalhes.
 
-- **Visualizações**: A pasta `visualizacoes` contém os gráficos e visualizações gerados durante a análise.
+- **Visualizações**: A pasta `assets` contém os gráficos e visualizações gerados durante a análise.
 
 - **Apresentação**: A pasta `apresentacao` contém os slides utilizados na apresentação final do projeto.
 

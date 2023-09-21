@@ -13,7 +13,7 @@ df['Date'] = pd.to_datetime(df['Date'])
 
 df
 
-dfcor=df.pivot_table(columns='Name',index='Date',values='Close', aggfunc='mean',).reindex(pd.date_range(start='2020-09-01',end='2021-06-30'),method='nearest')
+dfcor=df.pivot_table(columns='Name',index='Date',values='Close', aggfunc='mean',).reindex(pd.date_range(start='2018-01-01',end='2021-06-30'),method='nearest')
 #dfcor
 corrprincipal = dfcor.corr(method = 'pearson')
 
